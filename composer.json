@@ -1,5 +1,5 @@
 {
-    "name": "shrasti/lazyload",
+    "name": "shrastisoni/lazyoxid",
     "description": "this is for the oxid lazy load",
     "type": "oxidshop-module",
       "license": "proprietary",
@@ -7,7 +7,7 @@
         {
             "type":"package",
             "package": {
-                "name": "shrasti/lazyload",
+                "name": "shrastisoni/lazyoxid",
                 "version":"master",
                 "source": {
                     "url": "https://github.com/shrastisoni/lazyoxid.git",
