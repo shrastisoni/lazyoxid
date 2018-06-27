@@ -24,7 +24,7 @@
             "email": "sonishrasti@gmail.com"
         }
     ],
-    "minimum-stability": "dev-master",
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.6.0"
     },
